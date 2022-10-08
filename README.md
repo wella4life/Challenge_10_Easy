@@ -1,6 +1,6 @@
 - Overview:
-  - [QR code component](#the-challenge)
-  - [https://wella4life.github.io/Challenge_10_Easy/](#links)
+  - [QR code component]
+  - [https://wella4life.github.io/Challenge_10_Easy/]
   - ![](images/Finished-Desktop.jpg)
   - ![](images/Finished-Mobile.jpg)
 
